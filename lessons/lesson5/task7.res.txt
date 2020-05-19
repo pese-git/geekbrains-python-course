@@ -1,0 +1,1 @@
+[{"OOO Yandex": 5000, "OAO Google": -40000, "OOO Yahoo": 105000, "OAO Bing": -545000}, {"average_profit": -118750.0}]
